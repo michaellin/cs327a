@@ -1,0 +1,27 @@
+[submodule "sai2-common"]
+	path = sai2-common
+	url = ./sai2-common/.git
+[submodule "chai3d"]
+	path = chai3d
+	url = ./chai3d/.git
+[submodule "cs327a"]
+	path = cs327a
+	url = ./cs327a/.git
+[submodule "sai2-examples"]
+	path = sai2-examples
+	url = ./sai2-examples/.git
+[submodule "sai2-graphics"]
+	path = sai2-graphics
+	url = ./sai2-graphics/.git
+[submodule "sai2-interfaces"]
+	path = sai2-interfaces
+	url = ./sai2-interfaces/.git
+[submodule "sai2-model"]
+	path = sai2-model
+	url = ./sai2-model/.git
+[submodule "sai2-primitives"]
+	path = sai2-primitives
+	url = ./sai2-primitives/.git
+[submodule "sai2-urdfreader"]
+	path = sai2-urdfreader
+	url = ./sai2-urdfreader/.git
