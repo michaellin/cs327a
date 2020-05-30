@@ -9,7 +9,7 @@
 	url = ./cs327a/.git
 [submodule "sai2-examples"]
 	path = sai2-examples
-	url = ./sai2-examples/.git
+	url = https://github.com/manips-sai-org/sai2-examples.git
 [submodule "sai2-graphics"]
 	path = sai2-graphics
 	url = ./sai2-graphics/.git
